@@ -1,1 +1,4 @@
 remote_theme: volny/creative-theme-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
