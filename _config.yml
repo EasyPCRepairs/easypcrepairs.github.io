@@ -1,4 +1,7 @@
+# Theme Settings
 remote_theme: volny/creative-theme-jekyll
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
