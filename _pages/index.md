@@ -1,6 +1,5 @@
 ---
 title: "Easy PC Repairs LLC"
-masthead_title : "Easy PC Repairs"
 layout: splash
 permalink: /
 classes: wide
@@ -14,4 +13,4 @@ header:
 
 ---
 
-### Welcome to Easy PC Repairs
+### We Fix Computers

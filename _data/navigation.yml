@@ -6,6 +6,8 @@ main:
     url: /
   - title: "Reviews"
     url: /
+  - title: "Form"
+    url: /form
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
