@@ -1,13 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: /about
+    url: /about/
   - title: "Services"
     url: /
   - title: "Reviews"
     url: /
   - title: "Form"
-    url: /form
+    url: /form/
+  - title: "Privacy Policy"
+    url: /privacy-policy/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

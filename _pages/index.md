@@ -1,8 +1,12 @@
 ---
-title: "Easy PC Repairs LLC"
+title: "Computer Repair & Services"
+excerpt: "We offer free diagnosis and estimate to repair."
 layout: splash
+hidden: true
 permalink: /
-classes: wide
+classes: 
+    - wide
+    - landing
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

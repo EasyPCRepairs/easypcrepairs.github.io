@@ -8,28 +8,15 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.greedy-nav .visible-links a:before {
-  background-color: rgb(62, 84, 151);
+
+form {
+    background-color: #ffffff;
 }
 
-.greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon:before, .greedy-nav__toggle:hover .navicon:after {
-    background: rgb(62, 84, 151);
-}
-
-.navicon {
-    background-color: #000000
-    
-}
-
-a:focus, button:focus {
-    outline: thin dotted black;
-    outline: 5px auto black;
-}
-
-.navicon:before, .navicon:after {
-    background: #000000;
-}
-
-input {
+input, textarea {
     background-color: #eee;
+}
+
+.submitbtn {
+    margin-top: 10px;    
 }

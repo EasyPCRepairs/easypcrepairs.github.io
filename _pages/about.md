@@ -1,9 +1,10 @@
 ---
 title: "About Us"
 layout: single
-permalink: /about
+permalink: /about/
 classes: wide
 
 ---
 
-## Our Story
+We are a locally owned computer repair business in Cherokee County, GA.
+{: .text-left}
