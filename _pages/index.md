@@ -13,4 +13,4 @@ header:
 
 ---
 
-### We Fix Computers
+### Welcome to Easy PC Repairs
