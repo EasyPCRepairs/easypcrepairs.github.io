@@ -1,6 +1,7 @@
 ---
 title: "Computer Repair & Services"
-excerpt: "We offer free diagnosis and estimate to repair."
+excerpt: >
+    We offer <u><b>free</b></u> diagnosis and estimate to repair.
 layout: splash
 hidden: true
 permalink: /
@@ -9,7 +10,7 @@ classes:
     - landing
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/splash.png
   actions:
     - label: "Book Now"
@@ -17,4 +18,4 @@ header:
 
 ---
 
-### Welcome to Easy PC Repairs
+### We Fix Computers
