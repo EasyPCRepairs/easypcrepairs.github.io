@@ -4,7 +4,7 @@ layout: single
 permalink: /privacy-policy/
 
 ---
-<p>Easy PC Repairs operates the easypcrepairs.net website, which provides computer repair services.</p>
+Easy PC Repairs operates the [easypcrepairs.net](../) website, which provides computer repair services.
 
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our service, the Easy Pc Repairs website.</p>
 
@@ -28,7 +28,7 @@ permalink: /privacy-policy/
 
 <p>For more general information on cookies, please read <a href="https://www.cookieconsent.com/what-are-cookies/">"What Are Cookies"</a>.</p>
 
-<h2>service Providers</h2>
+<h2>Service Providers</h2>
 
 <p>We may employ third-party companies and individuals due to the following reasons:</p>
 
@@ -49,7 +49,7 @@ permalink: /privacy-policy/
 
 <p>Our service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
 
-<p>Children's Privacy</p>
+<em>Children's Privacy</em>
 
 <p>Our services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
 

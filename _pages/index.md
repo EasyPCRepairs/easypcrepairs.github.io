@@ -13,7 +13,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Book Now"
+    - label: "<i class='fas fa-calendar-week'></i> Book Now"
       url: "https://www.facebook.com/Easy-PC-Repairs-110941363996493"
 
 ---
