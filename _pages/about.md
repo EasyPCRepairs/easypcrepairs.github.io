@@ -7,14 +7,17 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/about-splash.jpg
-
+feature_row:
+  - image_path: /assets/images/booknowhlpc.png
+    alt: "Book Now Highlight - Desktop"
+    title: "Desktop"
+    excerpt: "This is where the book now button is shown using the Google Chrome browser."
+  - image_path: /assets/images/booknowhlmb.png
+    alt: "Book Now Highlight - Mobile"
+    title: "Mobile"
+    excerpt: "This is where the book now button appears using the Safari browser on iPhone."
 
 ---
-<style>
-.page__content {
-    float: left
-}
-</style>
 
 We are a locally owned computer repair business in Cherokee County, GA.
 {: .text-left}
@@ -56,11 +59,19 @@ We are a locally owned computer repair business in Cherokee County, GA.
 </div>
 </div>
 
+<p>&nbsp;</p> 
+
 >
-#### Where do I book these appointments?
+#### Where can I schedule a drop-off or request a pick-up?
 
 
-
+On our [Facebook Page](https://www.facebook.com/Easy-PC-Repairs-110941363996493) using the [&nbsp;&nbsp;&nbsp;&nbsp;Book Now&nbsp;&nbsp;&nbsp;&nbsp;](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--facebook .btn--small} button found below the cover photo:
+{% include feature_row type="left"%}
+Alternatively, you can call our phone number at [678-769-5702](#link) and schedule through phone.
+{: .notice--info}
+>
+#### What times are you available for calling in?
 
 [GET A FREE ESTIMATE <i class="fas fa-arrow-right"></i>](#link){: .btn .btn--success .btn--large}
 {: .text-center}
+
