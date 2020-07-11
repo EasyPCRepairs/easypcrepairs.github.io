@@ -97,7 +97,6 @@
     background-color: $primary-color;
     color: #fff;
     font-weight: bold;
-    font-family: "Open Sans",Arial,sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 14px;
     top: 0;
@@ -148,6 +147,7 @@
     -webkit-font-smoothing: antialiased;
     font-size: 14px;
     margin-left: 4px
+    font-weight: 600;
 }
 
 #et-info-phone {
