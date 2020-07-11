@@ -3,7 +3,7 @@ main:
   - title: "About Us"
     url: /about/
   - title: "Services"
-    url: /
+    url: /services/
   - title: "Reviews"
     url: /
   - title: "Form"

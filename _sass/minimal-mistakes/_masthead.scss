@@ -91,3 +91,72 @@
     font-weight: 700;
   }
 }
+
+.topmast {
+    z-index: 100000;
+    background-color: $primary-color;
+    color: #fff;
+    font-weight: bold;
+    font-family: "Open Sans",Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    top: 0;
+    right: 0;
+    left: 0;
+    box-sizing: border-box;
+    display: block;
+    line-height: 1em;
+    overflow-y: hidden;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    animation-duration: 0.3s;
+    animation-timing-function: ease;
+    animation-delay: 0.15s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-play-state: running;
+    animation-name: intro;
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    width: 80%;
+    max-width: 1080px;
+    margin: auto;
+    line-height: 1em;
+}
+
+.et-info {
+    display: block;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    float: left;
+    vertical-align: baseline;
+    font-weight: 600;
+
+}
+
+#et-info-email {
+    color: white;
+}
+
+#emailcontent {
+    font-weight: bold;
+    font-family: "Open Sans",Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    margin-left: 4px
+}
+
+#et-info-phone {
+    margin-right: 13px;
+}
+
+.et-secondary-menu {
+    padding-top: .40em;
+    float: none!important;
+    text-align: right;  
+    margin: auto;
+}

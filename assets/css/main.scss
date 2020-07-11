@@ -31,6 +31,15 @@ input, textarea {
   margin-left: 20px;
 }
 
+.feature__wrapper {
+  margin-bottom: -2em;
+  border-bottom: 0px;
+}
+
+.feature__item {
+  margin-bottom: 1em;
+}
+
 .wide2 {
   .page {
     float: left;
@@ -53,4 +62,23 @@ input, textarea {
       padding-right: 0;
     }
   }
+}
+
+.btn--nav {
+    margin-bottom:0;
+}
+
+@media screen and (max-width: 767px) {
+    .et-info {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .et-secondary-menu {
+        padding: 0;
+        margin: 0;
+    }
+    .btn--nav {
+        display: none;
+    }
 }

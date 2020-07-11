@@ -65,13 +65,27 @@ We are a locally owned computer repair business in Cherokee County, GA.
 #### Where can I schedule a drop-off or request a pick-up?
 
 
-On our [Facebook Page](https://www.facebook.com/Easy-PC-Repairs-110941363996493) using the [&nbsp;&nbsp;&nbsp;&nbsp;Book Now&nbsp;&nbsp;&nbsp;&nbsp;](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--facebook .btn--small} button found below the cover photo:
+You can book an appointment on our [Facebook Page](https://www.facebook.com/Easy-PC-Repairs-110941363996493) using the [&nbsp;&nbsp;&nbsp;&nbsp;Book Now&nbsp;&nbsp;&nbsp;&nbsp;](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--facebook .btn--small} button found below the cover photo:
+
+___
+
 {% include feature_row type="left"%}
-Alternatively, you can call our phone number at [678-769-5702](#link) and schedule through phone.
+Alternatively, you can call our phone number at [678-769-5702](tel:+1-678-769-5702) and schedule directly with us.
 {: .notice--info}
+
+<p>&nbsp;</p>
+
 >
 #### What times are you available for calling in?
 
-[GET A FREE ESTIMATE <i class="fas fa-arrow-right"></i>](#link){: .btn .btn--success .btn--large}
+Our business call hours are Monday - Saturday from 9am to 5pm.
+
+[GET A FREE ESTIMATE <i class="fas fa-arrow-right"></i>](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--success .btn--large}
 {: .text-center}
+
+<p>&nbsp;</p>
+
+
+
+
 
