@@ -15,7 +15,22 @@ header:
   actions:
     - label: "<i class='fas fa-calendar-week'></i> Book Now"
       url: "https://www.facebook.com/Easy-PC-Repairs-110941363996493"
+feature_row:
+  - image_path: /assets/images/sfr1.png
+    alt: "Desktop Repair"
+    title: "Desktop Repair"
+    excerpt: "We service all Windows computers and promise to help get your PC running optimally."
+    url: "/services/"
+  - image_path: /assets/images/sfr2.png
+    alt: "Laptop Repair"
+    title: "Laptop Repair"
+    url: "/services/"
+    excerpt: "Laptop problem you need fixed? We repair Windows-based laptops of all brands."
+  - image_path: /assets/images/sfr3.png
+    title: "Software Services"
+    excerpt: "Our team can equip your machine to defend against malware and other viruses."
+    url: "/services/"
 
 ---
 
-### We Fix Computers
+{% include feature_row %}

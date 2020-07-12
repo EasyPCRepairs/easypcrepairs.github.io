@@ -88,3 +88,8 @@ input, textarea {
     color: white;
     text-decoration: none;
 }
+
+.archive__item-body, .archive__item-title, .archive__item-excerpt {
+    text-decoration: none;
+    color: $text-color;
+}
