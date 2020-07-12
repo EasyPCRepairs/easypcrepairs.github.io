@@ -137,10 +137,13 @@
 
 }
 
-#et-info-email {
-    color: white;
+#emailcontainer, #et-info-phone {
+    display: inline-block;
+    
 }
-
+#et-info-email {
+    margin-left: 4px;
+}
 
 #et-info-phone {
     margin-right: 13px;
