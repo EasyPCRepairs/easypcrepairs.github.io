@@ -21,16 +21,21 @@ feature_row:
     title: "Desktop Repair"
     excerpt: "We service all Windows computers and promise to help get your PC running optimally."
     url: "/services/"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/sfr2.png
     alt: "Laptop Repair"
     title: "Laptop Repair"
     url: "/services/"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"   
     excerpt: "Laptop problem you need fixed? We repair Windows-based laptops of all brands."
   - image_path: /assets/images/sfr3.png
     title: "Software Services"
     excerpt: "Our team can equip your machine to defend against malware and other viruses."
     url: "/services/"
-
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
