@@ -18,3 +18,11 @@ method="POST">
     <div class="g-recaptcha" data-sitekey="6LeKMK8ZAAAAAC4Xw8m75wJcj40ekvwaRbbJuCHP"></div>
     <label><button class="submitbtn" type="submit" value="Submit">Send</button></label>
 </form>  
+
+<script>
+	window.fwSettings={
+	'widget_id':65000000655
+	};
+	!function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() 
+</script>
+<script type='text/javascript' src='https://widget.freshworks.com/widgets/65000000655.js' async defer></script>

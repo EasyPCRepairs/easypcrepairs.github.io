@@ -4,7 +4,7 @@ layout: single
 permalink: /services/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.28"
   overlay_image: /assets/images/services-splash.jpg
 toc: true
 toc_label: "Service List"

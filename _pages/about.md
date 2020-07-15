@@ -5,7 +5,7 @@ permalink: /about/
 classes: wide2
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/about-splash.jpg
 feature_row:
   - image_path: /assets/images/booknowhlpc.png
@@ -18,8 +18,14 @@ feature_row:
     excerpt: "This is where the book now button appears using the Safari browser on iPhone."
 
 ---
+<span style="font-family:Montserrat; font-size:1.6em;">Welcome to Easy PC Repairs! </span> 
+With **20 years** of experience in building, installing, and repairing computers both commercially and personally, we decided to create a local business to serve our customers in Cherokee County, Georgia and the surrounding areas.
+{: .text-left} 
 
-We are a locally owned computer repair business in Cherokee County, GA.
+
+Our main objective is to service our customers' computer-related issues in the most <u>satisfactory</u> and <u>efficient</u> manner possible.
+
+
 {: .text-left}
 
 # Frequently Asked Questions 
