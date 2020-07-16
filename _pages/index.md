@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/splash.png
   actions:
     - label: "<i class='fas fa-calendar-week'></i> Book Now"
-      url: "https://www.facebook.com/Easy-PC-Repairs-110941363996493"
+      run: "FreshworksWidget('open')"
 feature_row:
   - image_path: /assets/images/sfr1.png
     alt: "Desktop Repair"

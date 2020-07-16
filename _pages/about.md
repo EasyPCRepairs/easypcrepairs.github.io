@@ -18,8 +18,9 @@ feature_row:
     excerpt: "This is where the book now button appears using the Safari browser on iPhone."
 
 ---
-<span style="font-family:Montserrat; font-size:1.6em;">Welcome to Easy PC Repairs! </span> 
-With **20 years** of experience in building, installing, and repairing computers both commercially and personally, we decided to create a local business to serve our customers in Cherokee County, Georgia and the surrounding areas.
+<span style="font-family:Montserrat; font-size:1.6em;">Welcome to Easy PC Repairs! </span>
+<br />
+With **20 years** of experience in building, installing, and repairing computers both commercially and personally, our business was created to better serve our customers in Cherokee County, Georgia and the surrounding areas.
 {: .text-left} 
 
 

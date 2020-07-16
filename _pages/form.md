@@ -5,6 +5,7 @@ permalink: /form/
 
 ---
 
+
 <form action="https://formspree.io/xgennrbv" 
 method="POST">
     <label for="name">Name</label>
@@ -19,10 +20,4 @@ method="POST">
     <label><button class="submitbtn" type="submit" value="Submit">Send</button></label>
 </form>  
 
-<script>
-	window.fwSettings={
-	'widget_id':65000000655
-	};
-	!function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() 
-</script>
-<script type='text/javascript' src='https://widget.freshworks.com/widgets/65000000655.js' async defer></script>
+
