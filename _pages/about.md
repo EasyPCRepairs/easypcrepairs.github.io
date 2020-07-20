@@ -26,8 +26,17 @@ With **20 years** of experience in building, installing, and repairing computers
 
 Our main objective is to service our customers' computer-related issues in the most <u>satisfactory</u> and <u>efficient</u> manner possible.
 
+![image-left](/assets/images/about-image1.jpg){: .align-left}
+Easy PC Repairs was built on a reliable, no-nonense approach to computer repair. We strive to exceed our customer's expectations by maintaining a high quality of service.  
 
-{: .text-left}
+The primary difference between us and other competition is that we understand what you as the customer are looking for:  
+  {: .text-left}
+**Quick, dependable, and expert computer repair.**
+{: .text-center}
+
+No salespeople, no absurd corporate rates, no scare tactics, no pricing bias. We have seen how the current electronic repair market has heavily abused the inexperienced public and it is our mission to provide honest and trustworthy computer services for our customers.
+
+<p>&nbsp;</p>  
 
 # Frequently Asked Questions 
 
@@ -67,17 +76,28 @@ Our main objective is to service our customers' computer-related issues in the m
 </div>
 
 <p>&nbsp;</p> 
+>
+#### How do I request a free estimate?
+
+Using our <a onclick="FreshworksWidget('open');" class="btn btn--inverse"> Free Quote Form </a> you can request an estimate. 
+
+**NOTE:**   This step must be done *before* scheduling an appointment on our Facebook page.
+{: .notice--info}
+
+
+<p>&nbsp;</p>
 
 >
-#### Where can I schedule a drop-off or request a pick-up?
+#### Where can I schedule a drop-off or a pick-up?
 
 
+##### After you have completed the free quote form and we have gotten in contact with you:   
 You can book an appointment on our [Facebook Page](https://www.facebook.com/Easy-PC-Repairs-110941363996493) using the [&nbsp;&nbsp;&nbsp;&nbsp;Book Now&nbsp;&nbsp;&nbsp;&nbsp;](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--facebook .btn--small} button found below the cover photo:
 
 ___
 
 {% include feature_row type="left"%}
-Alternatively, you can call our phone number at [678-769-5702](tel:+1-678-769-5702) and schedule directly with us.
+**NOTE:**   Alternatively, you can call our phone number at [678-769-5702](tel:+1-678-769-5702) and schedule directly with us.
 {: .notice--info}
 
 <p>&nbsp;</p>
@@ -85,12 +105,12 @@ Alternatively, you can call our phone number at [678-769-5702](tel:+1-678-769-57
 >
 #### What times are you available for calling in?
 
-Our business call hours are Monday - Saturday from 9am to 5pm.
-
-[GET A FREE ESTIMATE <i class="fas fa-arrow-right"></i>](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--success .btn--large}
-{: .text-center}
+Our business call hours are Monday - Saturday from 9am to 5pm.  
 
 <p>&nbsp;</p>
+<a onclick="FreshworksWidget('open');" class="btn btn--success btn--large">GET A FREE ESTIMATE <i class="fas fa-arrow-right"></i></a>
+{: .text-center}
+
 
 
 

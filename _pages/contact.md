@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 layout: single
-permalink: /form/
+permalink: /contact-us/
 
 ---
 

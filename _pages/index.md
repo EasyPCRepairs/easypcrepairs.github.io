@@ -40,6 +40,6 @@ feature_row:
 
 {% include feature_row %}
 
-
-[VIEW ALL SERVICES](/services/){: .btn .btn--info} [GET A FREE ESTIMATE](https://www.facebook.com/Easy-PC-Repairs-110941363996493){: .btn .btn--success}
+<br />
+[VIEW ALL SERVICES](/services/){: .btn .btn--info} <a onclick="FreshworksWidget('open');" class="btn btn--success">GET A FREE ESTIMATE </a>
 {: .text-center}
