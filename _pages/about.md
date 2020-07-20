@@ -26,13 +26,14 @@ With **20 years** of experience in building, installing, and repairing computers
 
 Our main objective is to service our customers' computer-related issues in the most <u>satisfactory</u> and <u>efficient</u> manner possible.
 
-![image-left](/assets/images/about-image1.jpg){: .align-left}
-Easy PC Repairs was built on a reliable, no-nonense approach to computer repair. We strive to exceed our customer's expectations by maintaining a high quality of service.  
+![image-left](/assets/images/about-image1.jpg){: .align-left}  
+Easy PC Repairs was built on a reliable, no-nonense approach to computer repair. We strive to exceed our customer's expectations by maintaining a high quality of service while preserving efficiency.  
 
 The primary difference between us and other competition is that we understand what you as the customer are looking for:  
-  {: .text-left}
+{: .text-left}
 **Quick, dependable, and expert computer repair.**
-{: .text-center}
+{: .text-center}  
+<p>&nbsp;</p>
 
 No salespeople, no absurd corporate rates, no scare tactics, no pricing bias. We have seen how the current electronic repair market has heavily abused the inexperienced public and it is our mission to provide honest and trustworthy computer services for our customers.
 
