@@ -35,7 +35,7 @@ The primary difference between us and other competition is that we understand wh
 {: .text-center}  
 <p>&nbsp;</p>
 
-No salespeople, no absurd corporate rates, no scare tactics, no pricing bias. We have seen how the current electronic repair market has heavily abused the inexperienced public and it is our mission to provide honest and trustworthy computer services for our customers.
+No salespeople, no absurd corporate rates, no scare tactics, no pricing bias. We have seen how the current electronic repair market has heavily taken advantage of the inexperienced public and it is our mission to provide honest and trustworthy computer services for our customers.
 
 <p>&nbsp;</p>  
 

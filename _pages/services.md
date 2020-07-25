@@ -57,7 +57,7 @@ If you have a new computer and need to have it configured, our team is the best 
 Need help with a computer appliance installation? Our team can help you install and configure any peripheral (keyboard, mouse, printer, speakers, headphones, microphone, camera). We will make sure they are working properly and provide an explanation on how to correctly use the device. 
 
 ## General System Services
-Our team can perform a variety of system services for Windows-based computers. We can facilitate many other procedures than the ones listed below so do not hestitate to [contact us](/form) if you need something specific done.
+Our team can perform a variety of system services for Windows-based computers. We can facilitate many other procedures than the ones listed below so do not hestitate to [contact us](/contact-us/) if you need something specific done.
 ### Backup System
 Your data is important. Having a backup could be a lifesaver in case of a hard-drive failure. We can backup the contents of your computer into a USB drive that you can keep as a failsafe for emergencies. 
 ### Restore System
