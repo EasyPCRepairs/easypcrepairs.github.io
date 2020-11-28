@@ -98,7 +98,7 @@ You can book an appointment on our [Facebook Page](https://www.facebook.com/Easy
 ___
 
 {% include feature_row type="left"%}
-**NOTE:**   Alternatively, you can call our phone number at [678-769-5702](tel:+1-678-769-5702) and schedule directly with us.
+**NOTE:**   Alternatively, you can call our phone number at [678-880-8368](tel:+1-678-880-8368) and schedule directly with us.
 {: .notice--info}
 
 <p>&nbsp;</p>

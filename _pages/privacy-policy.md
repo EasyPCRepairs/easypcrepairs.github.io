@@ -1,5 +1,5 @@
 ---
-title: <h1>Privacy Policy</h1>
+title: <h1>Privacy Policy </h1>
 layout: single
 permalink: /privacy-policy/
 
